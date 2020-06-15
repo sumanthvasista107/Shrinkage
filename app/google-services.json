@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "574041231022",
+    "firebase_url": "https://shrinkage-85343.firebaseio.com",
+    "project_id": "shrinkage-85343",
+    "storage_bucket": "shrinkage-85343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574041231022:android:f158146af91d51b462673f",
+        "android_client_info": {
+          "package_name": "com.example.shrinkage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574041231022-2p057nt89lcnnht41h35af0pvb2jc75l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNDz6qosY_xvlN9weYW32ciXy95eIV-oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574041231022-2p057nt89lcnnht41h35af0pvb2jc75l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

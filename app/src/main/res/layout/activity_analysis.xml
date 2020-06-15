@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    tools:context=".Analysis">
+
+<Spinner
+    android:id="@+id/select_spinner"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_margin="50dp">
+</Spinner>
+
+    <TextView
+        android:id="@+id/spinner_activity"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:text="Activity">
+    </TextView>
+
+    <TextView
+        android:id="@+id/spinner_total"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:text="Total_time"></TextView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </androidx.recyclerview.widget.RecyclerView>
+
+
+
+</LinearLayout>
